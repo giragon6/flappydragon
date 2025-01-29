@@ -8,12 +8,12 @@ instructions:
 4. profit
 
 game controls:
-space - start
-up arrow - flap up
-left arrow - shoot fireball
-down arrow - restart
+- space - start
+- up arrow - flap up
+- left arrow - shoot fireball
+- down arrow - restart
 
 game instructions:
-shoot fireballs at the birdplanes to get score
-don't shoot fireballs at the missiles (you will die)
-don't run into the missiles (you will die)
+- shoot fireballs at the birdplanes to get score
+- don't shoot fireballs at the missiles (you will die)
+- don't run into the missiles (you will die)
